@@ -1,5 +1,5 @@
-Hra kameň papier nožnice. Hrá sa proti počítaču.
+Rock paper scissors game. It is played against the computer.
 
 ![alt text](./images/kamen-papier-noznice.png)
 
-Aplikácia bola vytvorená pomocou online tutoriálu.
+The application was created using an online tutorial.
